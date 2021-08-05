@@ -34,6 +34,10 @@ pps:yandex邮箱注册教程：[https://www.spiritlhl.top/54/#%E5%89%8D%E6%9C%9F
 
 等待部署完成，点击右上角的open app，点击新页面中的最下面的vnc-auto
 
+### 关机
+
+在settings里找到Maintenance Mode并开启它，使得容器被隔离暂停服务
+
 # 相关项目推荐
 
 [https://github.com/spiritLHL/Hang-up-items](https://github.com/spiritLHL/Hang-up-items)
