@@ -23,3 +23,10 @@
     为应用程序命名，使用小写英文
     在 Heroku 中，点击“Deply app”
     等待部署完成，点击右上角的open app，点击新页面中的最下面的vnc-auto
+# 相关项目推荐
+
+[https://github.com/spiritLHL/Hang-up-items](https://github.com/spiritLHL/Hang-up-items)
+
+# 欢迎请站主喝一杯
+
+![](https://i.loli.net/2021/07/15/UPk5VbzAIC6OM7y.jpg)
