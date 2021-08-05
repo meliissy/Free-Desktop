@@ -1,5 +1,5 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-## Heroku 上的 VNC 服务器（虚拟网络计算）
+## 部署在Heroku上的免费桌面服务
 ## 说明
 ### 特征：
 
