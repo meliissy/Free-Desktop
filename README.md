@@ -1,7 +1,7 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 ## 部署在Heroku上的免费桌面服务
 ## 说明
-### 特征：
+### 配置：
 
     在 Ubuntu 18.04 Docker 映像上运行
     包括谷歌浏览器
@@ -15,6 +15,8 @@
 
     Github仓库
     Heroku 帐户（在 Heroku 上注册）
+    ps:这个注册时必须使用yandex或gmail邮箱，不然无法注册！
+    pps:yandex邮箱注册教程：[https://www.spiritlhl.top/54/#%E5%89%8D%E6%9C%9F%E5%87%86%E5%A4%87](https://www.spiritlhl.top/54/#%E5%89%8D%E6%9C%9F%E5%87%86%E5%A4%87)
     可访问的网络
 
 使用：
