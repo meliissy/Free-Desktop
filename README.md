@@ -1,83 +1,25 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-# VNC Server ( Virtual Network Computing ) on Heroku
-### Description in English
+## Heroku 上的 VNC 服务器（虚拟网络计算）
+## 说明
+### 特征：
 
-### Features:
-  - Running on Ubuntu 18.04 Docker Image
-  - Google Chrome included
-  - Lite Desktop xfce4
-  - Easy to use
-  - Support Chinese Language and Pinyin input method, check Readme.txt in Desktop
-  - Use keyboard Shift button to switch input method      
+    在 Ubuntu 18.04 Docker 映像上运行
+    包括谷歌浏览器
+    精简版桌面 xfce4
+    使用方便
+    支持中文和拼音输入法，在桌面查看Readme.txt
+    使用键盘Shift键切换输入法
 
-### Installation
+### 安装
+要求：
 
-##### Requirement:
- - GIT  ( Rexxar GitHub )
- - A Heroku account ( Register on Heroku )
- - Stable Network
+    Github仓库
+    Heroku 帐户（在 Heroku 上注册）
+    可访问的网络
 
-##### Steps: 
-- Click on “ Deploy to Heroku “ Button 
-- Choose a name for your Web Application ( such as Rexxarbots.heroku.com )
-- in Heroku , click on “ Deply app “ 
-- Fishish , Enjoy !
+使用：
 
-
-Rexxar does not own these codes and is only a publisher.
-
-
-Contact us : 
-
-	Website : rexxar.ir
-	Telegram : rexxar_ir
-	Instagram : rexxar.ir
-
-
-
-
-<div dir="rtl">
-	
-	
-	
-## توضــیحات نصـــب به زبان فارســی
-	
-	
-	
-###  ویژگی ها : 
-  - ران شدن  Ubunto 18.04
-- نصب بودن  Google Chrome
-- نسخه xfce4
-  -نصب بودن Python 3.7 & Python 2.7
-- شامل زبان چینی ( چینی اینجا ، چینی آنجا ، چینی همه جا : دی )
- - مناسب برای ران کردن بات و اسکریپت های پایتونی 
-
-
-###    نصب و توسعه :
-
-####  موارد مورد نیاز برای نصب : 
-- داشتن GitHub رکسار یا دانلود کردن خود فایل های مربوطه از GitHub  رکسار
-- ثبتنام در سایت Heroku و داشتن یک اکانت در آن
-- داشتن اینترنت مناسب ( مخصوصا اینترنت ایران که اصلا عالیه :دی )
-
-####  مراحل نصب و توسعه : 
-
-- به سایت Heroku بروید و در آن لاگین کنید .
--  در بالای صفحه بر روی دکمه “ Deploy to heroku “ کلیک کنید .
-- برای وب اپلیکیشن خود ، یک نام مناسب انتخاب کنید .
-- در سایت Heroku بر روی دکمه Deploy app کلیک کنید .
-- پایان ، لذت ببرید .
-
-
-## رکسار را در شبکه های مجازی دنبال کنید :
-
-
-	
-	وب سایت رسمی رکسار  : Rexxar.ir
-	کانال تلگرام رسمی رکسار : Rexxar_ir
-	اینستاگرام رکسار : rexxar.ir
-	
-	
-</div>
-
-
+    单击“部署到 Heroku”按钮
+    为应用程序命名，使用小写英文
+    在 Heroku 中，点击“Deply app”
+    等待部署完成，点击右上角的open app，点击新页面中的最下面的vnc-auto
