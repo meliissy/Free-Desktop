@@ -25,7 +25,7 @@ pps:yandex邮箱注册教程：[https://www.spiritlhl.top/54/#%E5%89%8D%E6%9C%9F
 
 使用：
 
-单击“部署到 Heroku”按钮
+单击“Deploy to Heroku”按钮
 
 为应用程序命名，使用小写英文
 
