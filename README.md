@@ -13,18 +13,26 @@
 ### 安装
 要求：
 
-    Github仓库
-    Heroku 帐户（在 Heroku 上注册）
-    ps:这个注册时必须使用yandex或gmail邮箱，不然无法注册！
-    pps:yandex邮箱注册教程：[https://www.spiritlhl.top/54/#%E5%89%8D%E6%9C%9F%E5%87%86%E5%A4%87](https://www.spiritlhl.top/54/#%E5%89%8D%E6%9C%9F%E5%87%86%E5%A4%87)
-    可访问的网络
+将我的Github仓库fork到自己账户里
+
+Heroku 帐户（在 Heroku 上注册）
+
+ps:这个注册时必须使用yandex或gmail邮箱，不然无法注册！
+
+pps:yandex邮箱注册教程：[https://www.spiritlhl.top/54/#%E5%89%8D%E6%9C%9F%E5%87%86%E5%A4%87](https://www.spiritlhl.top/54/#%E5%89%8D%E6%9C%9F%E5%87%86%E5%A4%87)
+
+可访问的网络
 
 使用：
 
-    单击“部署到 Heroku”按钮
-    为应用程序命名，使用小写英文
-    在 Heroku 中，点击“Deply app”
-    等待部署完成，点击右上角的open app，点击新页面中的最下面的vnc-auto
+单击“部署到 Heroku”按钮
+
+为应用程序命名，使用小写英文
+
+在 Heroku 中，点击“Deply app”
+
+等待部署完成，点击右上角的open app，点击新页面中的最下面的vnc-auto
+
 # 相关项目推荐
 
 [https://github.com/spiritLHL/Hang-up-items](https://github.com/spiritLHL/Hang-up-items)
